@@ -1,4 +1,4 @@
-# Projetos - Excel
+# Excel Data Analysis
 
 Projetos feitos durante minha "Formação Excel" na Alura
 
