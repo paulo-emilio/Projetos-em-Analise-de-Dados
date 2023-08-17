@@ -4,7 +4,7 @@ Projeto feito durante minha "Formação Excel" na Alura
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
-| :sparkles: Nome        | **Projetos - Excel**
+| :sparkles: Nome        | **Data Analysis com Excel**
 | :label: Tecnologias | excel
 | :rocket: URL        | https://github.com/paulo-emilio/Projetos/tree/main/An%C3%A1lise%20de%20dados%20-%20Excel
 
