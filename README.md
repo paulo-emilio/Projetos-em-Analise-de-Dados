@@ -6,7 +6,7 @@ Projeto feito durante minha "Formação Excel" na Alura
 | -------------  | --- |
 | :sparkles: Nome        | **Data Analysis com Excel**
 | :label: Tecnologias | excel
-| :rocket: URL        | https://github.com/paulo-emilio/Projetos/tree/main/An%C3%A1lise%20de%20dados%20-%20Excel
+| :rocket: URL        | https://github.com/paulo-emilio/Projetos/tree/main/Analise-de-dados-Excel
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/paulo-emilio/Formacao-Excel-Alura/blob/main/Excel%20-%20tabelas%20dinamicas%20e%20dashboards/prints/Dashboard.png#vitrinedev)
