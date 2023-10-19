@@ -1,16 +1,16 @@
-# Excel Data Analysis
+# Projetos de Data Analysis com Excel e Google Sheets
 
-Projeto feito durante minha "Formação Excel" na Alura
+Projeto feito durante minhas Formações "Excel" e "Data Analysis com Google Sheets" na Alura
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
-| :sparkles: Nome        | **Data Analysis com Excel**
-| :label: Tecnologias | excel
+| :sparkles: Nome        | **Data Analysis com Excel e Google Sheets**
+| :label: Tecnologias | excel, google sheets
 | :rocket: URL        | https://github.com/paulo-emilio/Projetos/tree/main/Analise-de-dados-Excel
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/paulo-emilio/Formacao-Excel-Alura/blob/main/Excel%20-%20tabelas%20dinamicas%20e%20dashboards/prints/Dashboard.png#vitrinedev)
+![](#vitrinedev)
 
 ## Detalhes do projeto
 
-Projeto desenvolvido durante o curso "Formação Excel" da Alura. Durante o curso, utilizamos dados para análises, criação de dashboards, tabelas, entre outros.
+Projeto desenvolvido duranteminhas Formações "Excel" e "Data Analysis com Google Sheets" da Alura. Durante os cursos, utilizamos dados para análises, criação de dashboards, tabelas, entre outros.
