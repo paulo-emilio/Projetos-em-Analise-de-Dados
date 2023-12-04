@@ -1,6 +1,6 @@
 # Projetos de Análise de Dados com SQL, Excel e Google Sheets
 
-Projetos realizados durante as minhas formações "Excel" e "Data Analysis com Google Sheets" na Alura.
+Projetos realizados durante meus estudos para desenvolvimento de habilidades.
 
 | :placard: Vitrine.Dev | [cursos.alura.com.br/vitrinedev/paulo-emilio](https://cursos.alura.com.br/vitrinedev/paulo-emilio) |
 | -------------  | --- |
